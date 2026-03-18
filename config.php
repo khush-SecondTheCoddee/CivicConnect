@@ -11,7 +11,7 @@ define('TEST_EMAIL', 'srounincorp@gmail.com');
 // Note: Use an App Password, NOT your regular Gmail password.
 define('SMTP_HOST', 'smtp.gmail.com');
 define('SMTP_USER', 'srounincorp@gmail.com'); 
-define('SMTP_PASS', 'vynv dzus ozzj ymky'); 
+define('SMTP_PASS', 'GMAIL SMTP OR GOOGLE APP PASSWORD'); 
 define('SMTP_PORT', 587);
 
 // 3. FILE PATHS
